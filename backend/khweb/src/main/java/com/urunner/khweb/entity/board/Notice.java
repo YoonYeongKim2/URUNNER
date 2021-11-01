@@ -51,6 +51,5 @@ public class Notice {
         this.content = content;
     }
 
-    public void setNoticeNo(Long noticeNo) {
-    }
+    public void setNoticeNo(Long noticeNo) { this.noticeNo = noticeNo; }
 }
